@@ -1,7 +1,9 @@
 # LED blink project
 
 Platform : STM32F429
+
 Description : Alternately blink LED PG13 and PG14
+
 Tool Chain : arm-none-eabi 
 
 # Build command
